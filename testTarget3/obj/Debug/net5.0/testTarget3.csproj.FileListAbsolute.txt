@@ -1,0 +1,16 @@
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.exe
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.deps.json
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.runtimeconfig.json
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.dll
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\ref\testTarget3.dll
+C:\Users\Victor\source\repos\testTarget3\testTarget3\bin\Debug\net5.0\testTarget3.pdb
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.AssemblyInfo.cs
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.dll
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\ref\testTarget3.dll
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.pdb
+C:\Users\Victor\source\repos\testTarget3\testTarget3\obj\Debug\net5.0\testTarget3.genruntimeconfig.cache
